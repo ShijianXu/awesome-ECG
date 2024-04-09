@@ -6,8 +6,8 @@ A list of ECG related papers and implementations.
 - [Icentia11k: A Unsupervised Representation Learning Dataset For Arrhythmia Subtype Discovery](https://arxiv.org/abs/1910.09570), Shawn Tan et al., arXiv 2019
 - [Contrastive Heartbeats: Contrastive Learning For Self-supervised ECG Representation and Phnotyping](https://ieeexplore.ieee.org/document/9746887/), Crystal T. Wei et al., ICASSP 2022
 - [Transfer Learning in ECG Diagnosis: Is It Effective?](https://arxiv.org/abs/2402.02021), Cuong V. Nguyen et al., arXiv 2024 | [code](https://github.com/cuongvng/transfer-learning-ecg-diagnosis)
-- [Frozen Language Model Helps ECG Zero-Shot Learning](https://arxiv.org/abs/2303.12311), Jun Li et al., MIDL 2023, $\star$
-- [Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning](https://arxiv.org/abs/2404.04935), Aofan Jiang et al., arXiv 2024, $\star$
+- [Frozen Language Model Helps ECG Zero-Shot Learning](https://arxiv.org/abs/2303.12311), Jun Li et al., MIDL 2023 :star:
+- [Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning](https://arxiv.org/abs/2404.04935), Aofan Jiang et al., arXiv 2024 :star:
 - 
 
 
