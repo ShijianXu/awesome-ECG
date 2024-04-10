@@ -9,8 +9,8 @@ A list of ECG related papers and implementations.
 - [Frozen Language Model Helps ECG Zero-Shot Learning](https://arxiv.org/abs/2303.12311), Jun Li et al., MIDL 2023 :star2:
 - [Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning](https://arxiv.org/abs/2404.04935), Aofan Jiang et al., arXiv 2024 :star:
 - [ETP: Learning Transferable ECG Representations via ECG-Text Pre-training](https://arxiv.org/abs/2309.07145), Che Liu et al., ICASSP 2024
+- [CLOCS: Contrastive Learning of Cardiac Signals Across Space, Time, and Patients](https://arxiv.org/abs/2005.13249), Dani Kiyasseh et al., ICML 2021 | [code](https://github.com/danikiyasseh/CLOCS)
 - 
-
 
 ### Useful Codes
 - https://github.com/mondejar/ecg-classification
@@ -23,6 +23,7 @@ A list of ECG related papers and implementations.
 - https://github.com/helme/ecg_ptbxl_benchmarking, PTB-XL benchmarking
 - https://github.com/torcheeg/torcheeg, a library built on PyTorch for EEG signal analysis
 - https://github.com/klean2050/ecg-augmentations, ECG time-series augmentations library for PyTorch
+- https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging
 - 
 
 ### Datasets
