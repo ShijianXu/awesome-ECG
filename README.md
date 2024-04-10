@@ -35,4 +35,3 @@ A list of ECG related papers and implementations.
 ### Other Resources
 - https://iclr.cc/virtual/2023/workshop/12832
 - [Learning from Time Series for Health Workshop at ICLR 2024](https://timeseriesforhealth.github.io/)
-- test 
