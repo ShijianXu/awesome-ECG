@@ -1,5 +1,5 @@
-# awesome-ECG
-A list of ECG related papers and implementations.
+# awesome-ECG/Temperal Signals
+A list of ECG/temperal signals related papers and implementations. (Or anything I think it is relevant)
 
 ### Papers
 
@@ -10,7 +10,10 @@ A list of ECG related papers and implementations.
 - [Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning](https://arxiv.org/abs/2404.04935), Aofan Jiang et al., arXiv 2024 :star:
 - [ETP: Learning Transferable ECG Representations via ECG-Text Pre-training](https://arxiv.org/abs/2309.07145), Che Liu et al., ICASSP 2024
 - [CLOCS: Contrastive Learning of Cardiac Signals Across Space, Time, and Patients](https://arxiv.org/abs/2005.13249), Dani Kiyasseh et al., ICML 2021 | [code](https://github.com/danikiyasseh/CLOCS)
+- [Transfer Learning from Well-Curated to Less-Resourced Populations with HIV](http://proceedings.mlr.press/v126/parbhoo20a/parbhoo20a.pdf), Sonali Parbhoo et al., PMLR 2020
+- [Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection](https://arxiv.org/abs/2308.01639), Aofan Jiang et al., MICCAI 2023 | [code](https://github.com/MediaBrain-SJTU/ECGAD)
 - 
+
 
 ### Useful Codes
 - https://github.com/mondejar/ecg-classification
@@ -35,4 +38,4 @@ A list of ECG related papers and implementations.
 ### Other Resources
 - https://iclr.cc/virtual/2023/workshop/12832
 - [Learning from Time Series for Health Workshop at ICLR 2024](https://timeseriesforhealth.github.io/)
-- Test
+- 
