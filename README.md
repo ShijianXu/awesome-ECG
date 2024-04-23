@@ -13,7 +13,9 @@ A list of ECG/temperal signals related papers and implementations. (Or anything 
 - [Transfer Learning from Well-Curated to Less-Resourced Populations with HIV](http://proceedings.mlr.press/v126/parbhoo20a/parbhoo20a.pdf), Sonali Parbhoo et al., PMLR 2020
 - [Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection](https://arxiv.org/abs/2308.01639), Aofan Jiang et al., MICCAI 2023 | [code](https://github.com/MediaBrain-SJTU/ECGAD)
 - [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642), Jiehui Xu et al., ICLR 2022 | [code](https://github.com/thuml/Anomaly-Transformer)
-- 
+- [Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach](https://arxiv.org/abs/2302.03357), Xiang Lan et al., ICLR 2024 | [code](https://github.com/lanxiang1017/DynamicBadPairMining_ICLR24)
+- [Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram](https://arxiv.org/abs/2402.09450), Yeongyeon Na et al., ICLR 2024 | [code](https://github.com/bakqui/ST-MEM)
+-  
 
 ### Useful Codes
 - https://github.com/mondejar/ecg-classification
