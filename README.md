@@ -1,5 +1,5 @@
-# awesome-ECG/Temperal Signals
-A list of ECG/temperal signals related papers and implementations. (Or anything I think it is relevant)
+# awesome-ECG/Time Series
+A list of ECG/time series related papers and implementations. (Or anything I think it is relevant)
 
 ### Papers
 
@@ -11,11 +11,12 @@ A list of ECG/temperal signals related papers and implementations. (Or anything 
 - [Contrastive Heartbeats: Contrastive Learning For Self-supervised ECG Representation and Phenotyping](https://ieeexplore.ieee.org/document/9746887/), Crystal T. Wei et al., ICASSP 2022
 - [Frozen Language Model Helps ECG Zero-Shot Learning](https://arxiv.org/abs/2303.12311), Jun Li et al., MIDL 2023
 - [Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection](https://arxiv.org/abs/2308.01639), Aofan Jiang et al., MICCAI 2023 | [code](https://github.com/MediaBrain-SJTU/ECGAD)
+- [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/abs/2211.14730), Yuqi Nie et al., ICLR 2023 | [code](https://github.com/yuqinie98/PatchTST) :star:
 - [Transfer Learning in ECG Diagnosis: Is It Effective?](https://arxiv.org/abs/2402.02021), Cuong V. Nguyen et al., arXiv 2024 | [code](https://github.com/cuongvng/transfer-learning-ecg-diagnosis)
 - [Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning](https://arxiv.org/abs/2404.04935), Aofan Jiang et al., arXiv 2024
 - [ETP: Learning Transferable ECG Representations via ECG-Text Pre-training](https://arxiv.org/abs/2309.07145), Che Liu et al., ICASSP 2024
 - [Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach](https://arxiv.org/abs/2302.03357), Xiang Lan et al., ICLR 2024 | [code](https://github.com/lanxiang1017/DynamicBadPairMining_ICLR24)
-- [Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram](https://arxiv.org/abs/2402.09450), Yeongyeon Na et al., ICLR 2024 | [code](https://github.com/bakqui/ST-MEM)
+- [Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram](https://arxiv.org/abs/2402.09450), Yeongyeon Na et al., ICLR 2024 | [code](https://github.com/bakqui/ST-MEM) :star:
 -  
 
 ### Useful Codes
@@ -28,6 +29,7 @@ A list of ECG/temperal signals related papers and implementations. (Or anything 
 - https://github.com/madao33/ECG-Classfier/blob/main/code/dataPreprocess.ipynb, PTB-XL data processing
 - https://github.com/helme/ecg_ptbxl_benchmarking, PTB-XL benchmarking
 - https://github.com/torcheeg/torcheeg, a library built on PyTorch for EEG signal analysis
+- https://github.com/DeepPSP/torch_ecg, ECG Deep Learning Framework Implemented using PyTorch
 - https://github.com/klean2050/ecg-augmentations, ECG time-series augmentations library for PyTorch
 - https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging
 - 
