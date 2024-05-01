@@ -9,6 +9,8 @@ A list of ECG/time series related papers and implementations. (Or anything I thi
 - [Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL](https://ieeexplore.ieee.org/document/9190034), Nils Strodthoff et al., IEEE Journal of Biomedical and Health Informatics 2021 | [code](https://github.com/helme/ecg_ptbxl_benchmarking)
 - [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642), Jiehui Xu et al., ICLR 2022 | [code](https://github.com/thuml/Anomaly-Transformer)
 - [Contrastive Heartbeats: Contrastive Learning For Self-supervised ECG Representation and Phenotyping](https://ieeexplore.ieee.org/document/9746887/), Crystal T. Wei et al., ICASSP 2022
+- [Advancing the State-of-the-Art for ECG Analysis through Structured State Space Models](https://arxiv.org/abs/2211.07579), Temesgen Mehari et al., ML4H 2022 | [code](https://github.com/tmehari/ssm_ecg) :star2:
+- [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396), Albert Gu et al., ICLR 2022 | [code](https://github.com/state-spaces/s4) :star2:
 - [Frozen Language Model Helps ECG Zero-Shot Learning](https://arxiv.org/abs/2303.12311), Jun Li et al., MIDL 2023
 - [Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection](https://arxiv.org/abs/2308.01639), Aofan Jiang et al., MICCAI 2023 | [code](https://github.com/MediaBrain-SJTU/ECGAD)
 - [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/abs/2211.14730), Yuqi Nie et al., ICLR 2023 | [code](https://github.com/yuqinie98/PatchTST) :star:
