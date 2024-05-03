@@ -1,25 +1,32 @@
 # awesome-ECG/Time Series
 A list of ECG/time series related papers and implementations. (Or anything I think it is relevant)
 
-### Papers
+### ECG Papers
 
 - [Icentia11k: A Unsupervised Representation Learning Dataset For Arrhythmia Subtype Discovery](https://arxiv.org/abs/1910.09570), Shawn Tan et al., arXiv 2019
 - [Transfer Learning from Well-Curated to Less-Resourced Populations with HIV](http://proceedings.mlr.press/v126/parbhoo20a/parbhoo20a.pdf), Sonali Parbhoo et al., PMLR 2020
 - [CLOCS: Contrastive Learning of Cardiac Signals Across Space, Time, and Patients](https://arxiv.org/abs/2005.13249), Dani Kiyasseh et al., ICML 2021 | [code](https://github.com/danikiyasseh/CLOCS)
 - [Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL](https://ieeexplore.ieee.org/document/9190034), Nils Strodthoff et al., IEEE Journal of Biomedical and Health Informatics 2021 | [code](https://github.com/helme/ecg_ptbxl_benchmarking)
-- [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642), Jiehui Xu et al., ICLR 2022 | [code](https://github.com/thuml/Anomaly-Transformer)
 - [Contrastive Heartbeats: Contrastive Learning For Self-supervised ECG Representation and Phenotyping](https://ieeexplore.ieee.org/document/9746887/), Crystal T. Wei et al., ICASSP 2022
-- [Advancing the State-of-the-Art for ECG Analysis through Structured State Space Models](https://arxiv.org/abs/2211.07579), Temesgen Mehari et al., ML4H 2022 | [code](https://github.com/tmehari/ssm_ecg) :star2:
-- [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396), Albert Gu et al., ICLR 2022 | [code](https://github.com/state-spaces/s4) :star2:
+- [Advancing the State-of-the-Art for ECG Analysis through **Structured State Space Models**](https://arxiv.org/abs/2211.07579), Temesgen Mehari et al., ML4H 2022 | [code](https://github.com/tmehari/ssm_ecg) :star2:
+- [ECG-SL: Electrocardiogram(ECG) Segment Learning, a deep learning method for ECG signal](https://arxiv.org/abs/2310.00818), Han Yu et al., arXiv 2023
 - [Frozen Language Model Helps ECG Zero-Shot Learning](https://arxiv.org/abs/2303.12311), Jun Li et al., MIDL 2023
 - [Multi-scale Cross-restoration Framework for Electrocardiogram Anomaly Detection](https://arxiv.org/abs/2308.01639), Aofan Jiang et al., MICCAI 2023 | [code](https://github.com/MediaBrain-SJTU/ECGAD)
-- [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/abs/2211.14730), Yuqi Nie et al., ICLR 2023 | [code](https://github.com/yuqinie98/PatchTST) :star:
 - [Transfer Learning in ECG Diagnosis: Is It Effective?](https://arxiv.org/abs/2402.02021), Cuong V. Nguyen et al., arXiv 2024 | [code](https://github.com/cuongvng/transfer-learning-ecg-diagnosis)
 - [Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning](https://arxiv.org/abs/2404.04935), Aofan Jiang et al., arXiv 2024
 - [ETP: Learning Transferable ECG Representations via ECG-Text Pre-training](https://arxiv.org/abs/2309.07145), Che Liu et al., ICASSP 2024
-- [Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach](https://arxiv.org/abs/2302.03357), Xiang Lan et al., ICLR 2024 | [code](https://github.com/lanxiang1017/DynamicBadPairMining_ICLR24)
 - [Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram](https://arxiv.org/abs/2402.09450), Yeongyeon Na et al., ICLR 2024 | [code](https://github.com/bakqui/ST-MEM) :star:
--  
+
+### Time Series Papers
+
+- [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642), Jiehui Xu et al., ICLR 2022 | [code](https://github.com/thuml/Anomaly-Transformer)
+- [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396), Albert Gu et al., ICLR 2022 | [code](https://github.com/state-spaces/s4) :star2:
+- [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/abs/2211.14730), Yuqi Nie et al., ICLR 2023 | [code](https://github.com/yuqinie98/PatchTST) :star:
+- [Effectively Modeling Time Series with Simple Discrete State Spaces](https://arxiv.org/abs/2303.09489), Michael Zhang et al., ICLR 2023 | [code](https://github.com/HazyResearch/spacetime) 
+- [Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach](https://arxiv.org/abs/2302.03357), Xiang Lan et al., ICLR 2024 | [code](https://github.com/lanxiang1017/DynamicBadPairMining_ICLR24)
+- 
+
+
 
 ### Useful Codes
 - https://github.com/mondejar/ecg-classification
