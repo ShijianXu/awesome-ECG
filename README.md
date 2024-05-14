@@ -15,7 +15,7 @@ A list of ECG/time series related papers and implementations. (Or anything I thi
 - [Transfer Learning in ECG Diagnosis: Is It Effective?](https://arxiv.org/abs/2402.02021), Cuong V. Nguyen et al., arXiv 2024 | [code](https://github.com/cuongvng/transfer-learning-ecg-diagnosis)
 - [Anomaly Detection in Electrocardiograms: Advancing Clinical Diagnosis Through Self-Supervised Learning](https://arxiv.org/abs/2404.04935), Aofan Jiang et al., arXiv 2024
 - [ETP: Learning Transferable ECG Representations via ECG-Text Pre-training](https://arxiv.org/abs/2309.07145), Che Liu et al., ICASSP 2024
-- [Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram](https://arxiv.org/abs/2402.09450), Yeongyeon Na et al., ICLR 2024 | [code](https://github.com/bakqui/ST-MEM) :star:
+- [Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram](https://arxiv.org/abs/2402.09450), Yeongyeon Na et al., ICLR 2024 | [code](https://github.com/bakqui/ST-MEM)
 
 ### Time Series Papers
 
@@ -24,6 +24,14 @@ A list of ECG/time series related papers and implementations. (Or anything I thi
 - [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/abs/2211.14730), Yuqi Nie et al., ICLR 2023 | [code](https://github.com/yuqinie98/PatchTST) :star:
 - [Effectively Modeling Time Series with Simple Discrete State Spaces](https://arxiv.org/abs/2303.09489), Michael Zhang et al., ICLR 2023 | [code](https://github.com/HazyResearch/spacetime) 
 - [Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach](https://arxiv.org/abs/2302.03357), Xiang Lan et al., ICLR 2024 | [code](https://github.com/lanxiang1017/DynamicBadPairMining_ICLR24)
+- [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](https://arxiv.org/abs/2310.04948), Defu Cao et al., ICLR 2024 | [code1](https://github.com/dc-research/tempo), [code2](https://github.com/liaoyuhua/tempo-pytorch)
+- [Leveraging Generative Models for Unsupervised Alignment of Neural Time Series Data](https://openreview.net/forum?id=9zhHVyLY4K), Ayesha Vermani et al., ICLR 2024
+- [VQ-TR: Vector Quantized Attention for Time Series Forecasting](https://openreview.net/forum?id=RMnJxnLwGak), Kashif Rasul et al., ICLR 2024
+- [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://arxiv.org/abs/2310.06625), Yong Liu et al., ICLR 2024 | [code](https://github.com/thuml/iTransformer)
+- [Towards Transparent Time Series Forecasting](https://openreview.net/forum?id=TYXtXLYHpR), Krzysztof Kacprzyk et al., ICLR 2024
+- [REBAR: Retrieval-Based Reconstruction for Time-series Contrastive Learning](https://arxiv.org/abs/2311.00519), Maxwell A. Xu et al., ICLR 2024 | [code](https://github.com/maxxu05/rebar)
+- [Soft Contrastive Learning for Time Series](https://arxiv.org/abs/2312.16424), Seunghan Lee et al., ICLR 2024 | [code](https://github.com/seunghan96/softclt)
+- [Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs](https://arxiv.org/abs/2310.02619), Ilan Naiman et al,. ICLR 2024 | [code](https://github.com/azencot-group/kovae)
 - 
 
 
