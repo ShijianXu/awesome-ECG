@@ -36,7 +36,7 @@ A list of ECG/time series related papers and implementations. (Or anything I thi
 
 
 
-### Useful Codes
+### Useful Codes and Libraries
 - https://github.com/mondejar/ecg-classification
 - https://github.com/MertDuman/Zero-Shot-ECG
 - https://github.com/antonior92/automatic-ecg-diagnosis
@@ -49,9 +49,12 @@ A list of ECG/time series related papers and implementations. (Or anything I thi
 - https://github.com/DeepPSP/torch_ecg, ECG Deep Learning Framework Implemented using PyTorch
 - https://github.com/klean2050/ecg-augmentations, ECG time-series augmentations library for PyTorch
 - https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging
-- 
+- NeuroKit:https://neuropsychology.github.io/NeuroKit/functions/ecg.html#
+
+
 
 ### Datasets
+
 - [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/)
 - [CODE-15%](https://zenodo.org/records/4916206)
 - [PhysioNet2017](https://physionet.org/content/challenge-2017/1.0.0/)
